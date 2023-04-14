@@ -31,9 +31,9 @@
 /* Colors */
 
 :root {
-  --first-color: #4070f4;
+  --first-color: #72ffff;
   --second-color: #0e2431;
-  --gardient-color: linear-gradient(to right, #5001fb, #8e0af3);
+  --gardient-color: linear-gradient(to right, #260372, #e700c8);
 }
 
 /* FONT STYLE */
@@ -88,7 +88,7 @@ body {
   font-size: var(--nomral-font-size);
   color: var(--second-color);
   overflow-x: hidden;
-  background-color: #081d2f;
+  background-color: #5800ff;
 }
 
 h1,
